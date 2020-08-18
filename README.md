@@ -58,7 +58,7 @@ _1 Leetcode a day keeps unemployment away. Start finite first, then inductively 
 
 <hr>
 
-![Your Image Should be here](/Images/Insert_the_CTP_Logo.png)
+![CTP Logo](/Images/CTP_Logo.jpg)
 
 **Note:** You can also embed images like this using URL's instead of the local file location! 
 Insert the URL inside the (Parenthesis) rather than the file location. 
